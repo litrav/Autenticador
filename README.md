@@ -2,7 +2,7 @@
 
 Objetivo
 
-O Autenticador de CVV é um aplicativo desktop desenvolvido em Java com interface gráfica Swing. Ele gera códigos de segurança (semelhantes ao CVV de cartões), valida entradas do usuário e armazena os códigos gerados em um banco de dados SQLite local. O sistema foi desenvolvido para evitar que pessoas sofram golpes relacionados a cartões de crédito virtuais, com essa interface, o código de segurança presente no cartão físico se torna mais protegido, pois é preciso verificá-lo após fazer qualquer compra.
+O Autenticador de CVV é um aplicativo desktop desenvolvido em Java com interface gráfica Swing. Ele gera códigos de segurança (semelhantes ao CVV de cartões), valida entradas do usuário e armazena os códigos gerados em um banco de dados SQLite local. O sistema foi desenvolvido para evitar que pessoas sofram golpes relacionados a cartões de crédito virtuais, com essa interface, o código de segurança presente no cartão físico se torna mais protegido, pois é preciso verificá-lo antes de efetuar qualquer compra.
 
 ---
 
