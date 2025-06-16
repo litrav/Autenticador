@@ -44,7 +44,7 @@ java -cp ".;flatlaf-<versao>.jar;sqlite-jdbc-<versao>.jar" ProjetoA3
 
 Exemplo de Uso
 
-Ao abrir o sistema, o usuário verá:
+Ao abrir o sistema:
 
 - Um **código de 3 dígitos** gerado automaticamente.
 - Um campo para digitar e validar o código.
